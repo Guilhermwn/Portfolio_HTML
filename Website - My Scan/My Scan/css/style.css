@@ -1,0 +1,140 @@
+    @font-face {
+        font-family: myFirstFont;
+        src: url(../fonts/Inversionz\ Unboxed.ttf);
+    }
+    
+    * {
+        font-family: myFirstFont;
+        font-size: 30px;
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    
+    h1 {
+        font-size: 50px;
+    }
+    
+    body {
+        background-color: rgb(31, 31, 31);
+    }
+    /*------------------------------*/
+    
+    #header {
+        background: rgb(77, 25, 77);
+        background: linear-gradient(90deg, rgba(77, 25, 77, 1) 0%, rgba(33, 47, 69, 1) 47%, rgba(0, 100, 102, 1) 100%);
+        text-align: center;
+        border-radius: 0 0 10px 10px;
+        box-shadow: 1px 1px 20px rgba(49, 49, 49, 0.527);
+    }
+    
+    header a {
+        text-decoration: none;
+        color: white;
+    }
+    /*------------------------------*/
+    
+    nav {
+        padding: 10px;
+    }
+    
+    nav a {
+        padding: 3px 7px;
+        text-decoration: none;
+        color: white;
+        transition: 0.2s;
+    }
+    
+    nav a:hover {
+        color: black;
+        background-color: white;
+    }
+    /*------------------------------*/
+    
+    #atualizados-recentemente {
+        color: white;
+        margin-top: 10px;
+        padding: 20px;
+        padding-top: 5px;
+        padding-bottom: 0;
+    }
+    
+    .recent {
+        margin: auto;
+    }
+    
+    .recent h1 {
+        font-family: 'Roboto', sans-serif;
+        font-size: 20px;
+    }
+    /*------------------------------*/
+    
+    .projects {
+        display: flex;
+        justify-content: left;
+        align-items: top;
+        text-align: center;
+        flex-wrap: wrap;
+    }
+    
+    .comic p {
+        font-size: 20px;
+        margin-bottom: 5px;
+    }
+    
+    .comic img {
+        width: 150px;
+        border-radius: 15px;
+    }
+    
+    .comic {
+        display: flex;
+        justify-content: center;
+        align-items: top;
+        width: 150px;
+        margin: 20px 15px 20px 15px;
+        border-radius: 15px;
+    }
+    
+    .comic a {
+        text-decoration: none;
+        color: white
+    }
+    /*------------------------------*/
+    
+    .retoof {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .retoof .bar {
+        width: 95%;
+        height: 2px;
+        background: linear-gradient(90deg, rgba(77, 25, 77, 1) 0%, rgba(33, 47, 69, 1) 47%, rgba(0, 100, 102, 1) 100%);
+        margin-bottom: 10px;
+    }
+    
+    #footer {
+        text-align: center;
+        color: white;
+        margin: 20px;
+    }
+    
+    .ico {
+        color: white
+    }
+    /*------------------------------*/
+    
+    #under-construction {
+        color: white;
+        text-align: center;
+        padding: 100px;
+    }
+    
+    #under-construction p {
+        font-size: 50px;
+        font-family: 'Roboto', sans-serif;
+        line-height: 70px;
+    }
+    /*------------------------------*/

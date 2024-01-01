@@ -1,0 +1,62 @@
+@media(max-width: 600px) {
+    .projects {
+        display: flex;
+        justify-content: center;
+        align-items: top;
+        text-align: center;
+        flex-wrap: wrap;
+        margin-top: 20px;
+    }
+    .comic p {
+        font-size: 17px;
+        margin-bottom: 5px;
+    }
+    .comic img {
+        width: 100px;
+        border-radius: 15px;
+    }
+    .comic {
+        display: flex;
+        justify-content: center;
+        align-items: top;
+        width: 150px;
+        margin: 5px;
+        border-radius: 15px;
+    }
+    .comic a {
+        text-decoration: none;
+        color: white
+    }
+    #under-construction {
+        color: white;
+        text-align: center;
+        padding: 100px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    #under-construction p {
+        font-size: 30px;
+        font-family: 'Roboto', sans-serif;
+        line-height: 50px;
+    }
+    .contactform h1 {
+        font-size: 40px;
+    }
+    .Fugarashi {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100%
+    }
+    .Form1 {
+        width: 100%
+    }
+    .Intup {
+        width: 90%;
+        margin-right: 60px;
+        margin-left: 50px;
+    }
+}
