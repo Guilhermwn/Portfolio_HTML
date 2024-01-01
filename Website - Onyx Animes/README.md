@@ -41,6 +41,19 @@ Você pode usar este repositório para clonar ou fazer o download do código-fon
 
 Você pode personalizar este site modificando o código HTML, CSS e JavaScript de acordo com suas preferências. Você pode adicionar mais animes, personalizar o design e incluir mais funcionalidades.
 
+## Imagens
+### Página inicial
+![image](https://github.com/Guilhermwn/Portfolio_HTML/assets/32494940/8d62015d-70bd-4f87-b3e8-55cf74c84e98)
+
+### Página do Anime
+![image](https://github.com/Guilhermwn/Portfolio_HTML/assets/32494940/a24b752e-f24d-4b4c-86c5-740c7e887410)
+
+### Página do episódio
+![image](https://github.com/Guilhermwn/Portfolio_HTML/assets/32494940/69b63459-8b73-423c-a7cd-aed376d481f3)
+
+
+
+
 ## Autor
 
 - **Autor**: [Guilherme Franco](https://github.com/Guilhermwn)
