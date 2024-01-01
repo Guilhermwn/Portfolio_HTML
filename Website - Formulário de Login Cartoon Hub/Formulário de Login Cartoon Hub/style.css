@@ -1,0 +1,87 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+  font-family: 'Roboto Mono', monospace;
+}
+
+body{
+    background: url(backtoon.png) center no-repeat;
+    background-color: #212121;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    width: 270px;
+    height: 300px;
+    background-color: rgba(0, 0, 0, 0.712);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    border-radius: 20px;
+}
+.hold-eve{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+.logo-h{
+  margin-bottom: 25px;
+  border-bottom: 5px solid #27a527;
+  color: white;
+}
+.field-txt{
+    color: rgb(255, 255, 255);
+    border: none;
+    border-bottom: 3px solid #45d345;
+    transition: all 0.3s ease 0s;
+    background-color: rgba(255, 255, 255, 0)
+}
+.field-txt:active{
+    border-bottom: 3px solid rgb(15, 109, 15);
+}
+.field-txt:hover{
+    border-bottom: 3px solid rgb(15, 109, 15);
+}
+.log-box{
+  margin-bottom: 10px;
+}
+
+.field-txt:focus {
+    outline: 0px auto -webkit-focus-ring-color;
+}
+
+.field-btn{
+  background-color: #83e283	;
+  width: 80px;
+  height: 30px;
+  border: none;
+  cursor: pointer;
+  transition: all 0.3s ease 0s;
+}
+.field-btn:focus {
+    outline: 0px auto -webkit-focus-ring-color;
+}
+.field-btn:hover{
+   background-color: #45d345;
+}
+.field-btn:active{
+  background-color: #27a527;
+  color: white;
+}
+
+.copy{
+  position: relative;
+  top: 50px;
+}
+.copy a{
+ text-decoration: none;
+}
+.copy a:visited{
+  color: white;
+}
