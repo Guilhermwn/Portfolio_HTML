@@ -32,9 +32,13 @@ Você pode usar este repositório para clonar ou fazer o download do código-fon
 Você pode personalizar este site modificando o código HTML e CSS de acordo com suas preferências. Adicione mais manhwas, mangás, estilize o design e expanda as funcionalidades.
 
 ## Imagens
+**Holme Page**
 ![image](https://github.com/Guilhermwn/Portfolio_HTML/assets/32494940/33dec850-0b7c-4d30-8e18-e3326abbbaa6)
+**Projetos**
 ![image](https://github.com/Guilhermwn/Portfolio_HTML/assets/32494940/97216b47-2399-41f5-b6af-e7bad24e069b)
+**Staff**
 ![image](https://github.com/Guilhermwn/Portfolio_HTML/assets/32494940/4407cc25-8266-4281-96ec-35a9b683559a)
+**Contato**
 ![image](https://github.com/Guilhermwn/Portfolio_HTML/assets/32494940/a2e390b6-7127-4d17-91db-511e51f619a2)
 
 ## Autor
