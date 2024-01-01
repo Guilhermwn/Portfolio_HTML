@@ -29,6 +29,22 @@ O projeto consiste em uma página da web que apresenta o "Takhyon Helps", um bot
 
 Você não precisa de nenhum software ou biblioteca adicional para executar este projeto. Basta um navegador da web para visualizar a página da web.
 
+## Imagens
+### Página Inicial
+![image](https://github.com/Guilhermwn/Portfolio_HTML/assets/32494940/b78ac662-2c8f-47b9-b63b-9471c042e550)
+
+### Comandos
+![image](https://github.com/Guilhermwn/Portfolio_HTML/assets/32494940/3d0d015d-10ea-44d3-a347-897e955aeda4)
+
+### Servidor
+![image](https://github.com/Guilhermwn/Portfolio_HTML/assets/32494940/ac846fbc-20e0-4070-9586-677475514fcf)
+
+### Staff
+![image](https://github.com/Guilhermwn/Portfolio_HTML/assets/32494940/2201ff79-4108-4746-952b-6f4d39d50151)
+
+
+
+
 ## Autor
 
 - **Autor:** [Guilherme Franco](https://github.com/Guilhermwn)
