@@ -27,6 +27,9 @@ Para usar esta página de login, você pode seguir estas etapas:
 
 Você pode personalizar esta página de login modificando o código HTML e CSS de acordo com suas preferências. Você pode alterar o título, fontes, cores ou layout.
 
+## Imagens
+![image](https://github.com/Guilhermwn/Portfolio_HTML/assets/32494940/671653de-f3fa-4841-8018-cd9263755fba)
+
 ## Autor
 
 - **Autor**: [Guilherme Franco](https://github.com/Guilhermwn)
