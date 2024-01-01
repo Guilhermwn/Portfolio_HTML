@@ -27,6 +27,17 @@ Este projeto é um site de portfólio criado com HTML e CSS para apresentar os t
 
 Você não precisa de nenhum software ou biblioteca adicional para executar este projeto. Basta um navegador da web para visualizar o portfólio.
 
+## Imagens
+### Home Page
+![image](https://github.com/Guilhermwn/Portfolio_HTML/assets/32494940/1af81161-7456-4600-8f7b-55b5d7bbd32d)
+
+### Contato
+![image](https://github.com/Guilhermwn/Portfolio_HTML/assets/32494940/221e669d-b118-4093-9fd2-f4565886932f)
+
+### Portfolio
+![image](https://github.com/Guilhermwn/Portfolio_HTML/assets/32494940/cc28e22e-7c39-48e7-9244-a51fd9b8cc4c)
+
+
 ## Autor
 
 - **Nome:** [Guilherme Franco](https://github.com/Guilhermwn)
