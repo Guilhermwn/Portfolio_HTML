@@ -28,9 +28,9 @@ Este repositório pode ser usado para clonar ou fazer o download do código-font
 Você pode personalizar este site alterando o código HTML e CSS de acordo com as necessidades da equipe tradutora. Adicione mais novels, modifique o design e expanda as funcionalidades conforme desejado.
 
 ## Imagens
-![Imagem 1](Website - Beta Scans/Show/show (1).png)
+![Imagem 1](/Show/show (1).png)
 
-![](Website - Beta Scans/Show/show (2).png)
+![Imagem 2](show (2).png)
 ![](Website - Beta Scans/Show/show (3).png)
 
 ## Autor
