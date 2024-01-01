@@ -29,6 +29,9 @@ Este projeto é uma página da web para um chat online chamado "Community Chat".
 
 Você não precisa de nenhum software ou biblioteca adicional para executar este projeto. Basta um navegador da web para usar o chat online.
 
+## Imagens
+![image](https://github.com/Guilhermwn/Portfolio_HTML/assets/32494940/36a1a8e3-827e-4e98-9b72-85364e5b0c46)
+
 ## Autor
 
 - **Autor:** [Guilherme Franco](https://github.com/Guilhermwn)
